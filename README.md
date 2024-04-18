@@ -8,8 +8,3 @@ This Python library is specifically designed to read PDFs from local paths and e
 - **Data Extraction**: Extract and sum numerical values from predefined line item structures within the PDFs.
 - **Robust Extraction**: Enhanced to handle various edge cases and anomalies in PDF formats.
 
-## Installation
-Clone this repository to your local machine:
-```bash
-git clone <repository-url>
-cd <repository-name>
