@@ -8,3 +8,6 @@ This Python library is specifically designed to read PDFs from local paths and e
 - **Data Extraction**: Extract and sum numerical values from predefined line item structures within the PDFs.
 - **Robust Extraction**: Enhanced to handle various edge cases and anomalies in PDF formats.
 
+## Development Plan and Future Enhancements
+- CLI/REST API: Develop a command-line interface and a REST API using FastAPI for interactive and programmable library access.
+- Generic Data Extraction: Improve extraction logic to dynamically adapt to different line item labels and formats.
